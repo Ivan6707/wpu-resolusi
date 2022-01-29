@@ -2,3 +2,6 @@ WPU resolusi
 -p
 -p
 -p
+-l
+-l
+-l
